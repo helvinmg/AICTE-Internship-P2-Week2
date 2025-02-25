@@ -1,0 +1,17 @@
+Week2 Milestone
+---------------
+What to be done:
+Imrpovisations on the backend code
+-Try to store password as encrypted instead of plaintext in user model
+-Try to add atleast one new backend route
+ -> to delete auction
+ -> edit auction
+
+Optionally:
+Restructure backend into models.js, db.js, server.js
+
+When to submit:
+01 March 6pm
+
+How to submit:
+Upload to github -> LMS

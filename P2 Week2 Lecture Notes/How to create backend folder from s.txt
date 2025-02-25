@@ -1,0 +1,12 @@
+How to create backend folder from scratch
+------------------------------------------
+Goto your auction app
+1. make backend folder manually
+2. set path to backend folder
+3. execute - npm init -y = initialize a node project inside the folder
+4. npm install express mongoose cros jsosnwebtoken 
+
+If you are using existing code
+------------------------------
+paste the downloaded files - server.js and package.js to backend folder
+execute - npm install

@@ -1,0 +1,10 @@
+Trying connect to db server from compass
+Error getting
+
+Force start server in admin command prompt:
+net start mongodb
+
+We will use this connection string inside the node program
+
+mongodb://localhost:27017 - test database will be used
+mongodb://localhost:27017/auctiondbnew - auctiondbnew will be created if not existing

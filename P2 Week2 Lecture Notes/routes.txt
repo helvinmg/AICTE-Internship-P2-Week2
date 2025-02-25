@@ -1,0 +1,12 @@
+POST
+----
+/signup - sending user details to backend for adding user collection
+/signin - sending user details to backend to check if user exists
+/auction - sending auction details to the backend to store in auctionitems collection
+/bid/id - takes the bid values and updates in auctionitems collection if it is more than existing current bid
+also updates highest biddername
+also check if auction time is over and updates isClosed feild
+
+GET
+/auctions - return all the exsiting auction details
+/auctions/id - return the single auction detail

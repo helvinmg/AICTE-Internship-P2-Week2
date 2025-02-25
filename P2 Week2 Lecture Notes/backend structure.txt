@@ -1,0 +1,11 @@
+backend
+  -models
+	-users.js
+	-auctions.js
+  -config
+	-dbconfig.js
+  -db
+	-dbconnect.js
+  -routes
+  -server.js(main logic)
+  -package.json
